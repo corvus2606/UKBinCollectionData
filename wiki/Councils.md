@@ -775,7 +775,7 @@ Note: Replace XXXXXXXX with UPRN.
 
 ### Newport City Council
 ```commandline
-python collect_data.py SomersetCouncil https://www.newport.gov.uk/ -s -u XXXXXXXX -p "XXXX XXX"
+python collect_data.py NewportCityCouncil https://www.newport.gov.uk/ -s -u XXXXXXXX -p "XXXX XXX"
 ```
 Additional parameters:
 - `-s` - skip get URL
